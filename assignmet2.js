@@ -17,5 +17,5 @@ class kioskCalculate{
         }
     }
 }
-var kioskCalc = new kioskCalculate("Tangerine",2)
+var kioskCalc = new kioskCalculate("kiwi",10)
 console.log(kioskCalc.getTotalCost())
